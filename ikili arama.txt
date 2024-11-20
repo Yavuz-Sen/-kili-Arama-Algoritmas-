@@ -1,0 +1,14 @@
+İkili Arama Algoritması
+1. Ekrana "Aklındaki sayıyı tahmin edeceğim!" yaz.
+2. Ekrana "Alt limiti giriniz:" yaz ve girdiyi as olarak depola.
+3. Ekrana "Üst limiti giriniz:" yaz ve girdiyi üs olarak depola.
+4. Ekrana "as ile üs açık aralığında aklınızdan bir sayı tuttunuz!" yaz.
+5. as2 değerini as olarak depola
+6. üs2 değerini üs olarak depola
+7. ort değerini (as2 + üs2) / 2 olarak depola
+8. Ekrana "Tuttuğunuz sayı: ort" yaz.
+9. Ekrana "e - Evet, sayıyı bildin!" yaz.
+10. Ekrana "b - Tuttuğum sayı tahmininden daha büyüktür!" yaz.
+11. Ekrana "k - Tuttuğum sayı tahmininden daha küçüktür!" yaz.
+12. Ekrana "Hangi seçenek durumu en iyi şekilde ifade etmektedir [e , k , b]" yaz.
+13. Yanıt e ise ekrana "as ile üs açık aralığında aklınızdan ort sayısını tuttunuz!" yaz, b ise as2 değişkenini ort olarak depola ve 7. adıma git, k ise üs2 değişkenini ort olarak depola ve 7. adıma git.
